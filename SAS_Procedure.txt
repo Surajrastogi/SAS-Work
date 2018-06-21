@@ -1,4 +1,3 @@
-/*Interview*/
 data A;
 Input ID $ salary;
 cards;
@@ -584,7 +583,7 @@ run;
 
 /*Impicit and expiciit conversions*/
 
-/*A character variable WEIGHT_KG is created and assigned the value “75?, the subsequent statement attempts to use this character 
+/*A character variable WEIGHT_KG is created and assigned the value Â“75?, the subsequent statement attempts to use this character 
 variable in a numeric calculation. In this instance SAS will perform an implicit conversion 
 (i.e. SAS automatically converts the variable from character to numeric so that the calculation can take place)*/
 
